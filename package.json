@@ -1,0 +1,43 @@
+{
+  "name": "@codamic/nuxt-wordpress-headless",
+  "version": "1.0.0",
+  "description": "A Nuxt Plugin to fetch Wordpress Headless API and create dynamic routes or fetch Wordpress Content.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "maintainers": [
+    "Daniel Mertins",
+    "Florian Wagner"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodamicInnovations/nuxt-wordpress-headless.git"
+  },
+  "keywords": [
+    "nuxt",
+    "wordpress",
+    "headless",
+    "api",
+    "connector",
+    "plugin",
+    "vue"
+  ],
+  "author": "Daniel Mertins, Florian Wagner - Codamic Innovations GmbH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodamicInnovations/nuxt-wordpress-headless/issues"
+  },
+  "homepage": "https://github.com/CodamicInnovations/nuxt-wordpress-headless#readme",
+  "devDependencies": {
+    "@nuxtjs/eslint-config": "^5.0.0",
+    "@nuxtjs/eslint-module": "^3.0.2",
+    "axios": "^0.21.1",
+    "eslint": "^7.18.0",
+    "eslint-config-prettier": "^7.2.0",
+    "eslint-plugin-nuxt": "^2.0.0",
+    "eslint-plugin-prettier": "^3.3.1",
+    "eslint-plugin-vue": "^7.5.0",
+    "prettier": "^2.2.1"
+  }
+}
